@@ -1,0 +1,20 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Zapatos Vintage",
+            "price": 49.99,
+            "description": "Bellos zapatos antiguos para Hipsters",
+            "stars": 4.5,
+            "image": "https://i.ibb.co/4j85tBM/shoes.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Máquina de escribir",
+            "price": 109.99,
+            "description": "Bonita máquina de escribir antigua",
+            "stars": 4.2,
+            "image": "https://i.ibb.co/84zfbz0/maquina.jpg"
+        }
+    ]
+}
